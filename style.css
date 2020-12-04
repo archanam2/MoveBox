@@ -1,0 +1,14 @@
+p{
+    color: blue;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.box{
+    margin: 70px;
+   
+    height: 100px;
+    width: 100px;
+    border: 2px dashed red;
+    background-color: pink;
+}
